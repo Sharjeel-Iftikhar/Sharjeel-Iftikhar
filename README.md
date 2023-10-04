@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sharjeel Iftikhar</h1>
-<h3 align="center">I am a Student of Computer Science at University of Engineering Lahore</h3>
+<h3 align="center">I am a Student of Computer Science at the University of Engineering Lahore</h3>
 
 - 🔭 I’m **Focusing**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **T3 Stack**
 
 - 👯 I’m looking to collaborate with **other professionals**
 
