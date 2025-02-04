@@ -3,7 +3,7 @@
 
 - 🔭 I’m **Focusing**
 
-- 🌱 I’m currently learning **T3 Stack**
+- 🌱 I’m currently learning **FAST API**
 
 - 👯 I’m looking to collaborate with **other professionals**
 
